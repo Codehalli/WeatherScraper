@@ -1,6 +1,7 @@
 Project: Weather Scraper
 
 By: Pranav Rao
+
 Date: 06/ 28/ 2020
 
 Purpose for this  program was to create a useful applicaiton which would scrape the weather off the internet and put it in a .csv or excel file. It would make a clean lay out of the 7 day forcast and list the description of the weather and the High or Low of the Temperature. 
